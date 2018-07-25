@@ -1,0 +1,47 @@
+Centralt innehåll
+
+I årskurs 7–9
+
+Taluppfattning och tals användning
+
+- Reella tal och deras egenskaper samt deras användning i vardagliga och matematiska situationer.
+- Talsystemets utveckling från naturliga tal till reella tal. Metoder för beräkningar som använts i olika historiska och kulturella sammanhang.
+- Tal i potensform. Grundpotensform för att uttrycka små och stora tal samt användning av prefix.
+- Centrala metoder för beräkningar med tal i bråk- och decimalform vid överslagsräkning, huvudräkning samt vid beräkningar med skriftliga metoder och digital teknik. Metodernas användning i olika situationer.
+- Rimlighetsbedömning vid uppskattningar och beräkningar i vardagliga och matematiska situationer och inom andra ämnesområden.
+
+Algebra
+
+- Innebörden av variabelbegreppet och dess användning i algebraiska uttryck, formler och ekvationer.
+- Algebraiska uttryck, formler och ekvationer i situationer som är relevanta för eleven.
+- Metoder för ekvationslösning.
+- Hur mönster i talföljder och geometriska mönster kan konstrueras, beskrivas och uttryckas generellt.
+- Hur algoritmer kan skapas och användas vid programmering. Programmering i olika programmeringsmiljöer.
+
+Geometri
+
+- Geometriska objekt och deras inbördes relationer. Geometriska egenskaper hos dessa objekt.
+- Avbildning och konstruktion av geometriska objekt, såväl med som utan digitala verktyg. Skala vid förminskning och förstoring av två- och tre-dimensionella objekt.
+- Likformighet och symmetri i planet.
+- Metoder för beräkning av area, omkrets och volym hos geometriska objekt, samt enhetsbyten i samband med detta.
+- Geometriska satser och formler och behovet av argumentation för deras giltighet.
+
+Sannolikhet och statistik
+
+- Likformig sannolikhet och metoder för att beräkna sannolikheten i vardagliga situationer.
+- Hur kombinatoriska principer kan användas i enkla vardagliga och matematiska problem.
+- Tabeller, diagram och grafer samt hur de kan tolkas och användas för att beskriva resultat av egna och andras undersökningar, såväl med som utan digitala verktyg. Hur lägesmått och spridningsmått kan användas för bedömning av resultat vid statistiska undersökningar.
+- Bedömningar av risker och chanser utifrån datorsimuleringar och statistiskt material.
+
+Samband och förändring
+
+- Procent för att uttrycka förändring och förändringsfaktor samt beräkningar med procent i vardagliga situationer och i situationer inom olika ämnesområden.
+- Funktioner och räta linjens ekvation. Hur funktioner kan användas för att, såväl med som utan digitala verktyg, undersöka förändring, förändringstakt och samband.
+
+Problemlösning
+
+- Strategier för problemlösning i vardagliga situationer och inom olika ämnesområden samt värdering av valda strategier och metoder.
+- Matematisk formulering av frågeställningar utifrån vardagliga situationer och olika ämnesområden.
+- Enkla matematiska modeller och hur de kan användas i olika situationer.
+- Hur algoritmer kan skapas, testas och förbättras vid programmering för matematisk problemlösning.
+
