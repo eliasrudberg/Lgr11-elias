@@ -1,0 +1,41 @@
+Centralt innehåll
+
+I årskurs 7–9
+
+Fysiken i naturen och samhället
+
+- Energins flöde från solen genom naturen och samhället. Några sätt att lagra energi. Olika energislags energikvalitet samt deras för- och nackdelar för miljön.
+- Elproduktion, eldistribution och elanvändning i samhället.
+- Försörjning och användning av energi historiskt och i nutid samt tänkbara möjligheter och begränsningar i framtiden.
+- Väderfenomen och deras orsaker. Hur fysikaliska begrepp används inom meteorologin och kommuniceras i väderprognoser.
+- Fysikaliska modeller för att beskriva och förklara jordens strålningsbalans, växthuseffekten och klimatförändringar.
+- Fysikaliska modeller för att beskriva och förklara uppkomsten av partikelstrålning och elektromagnetisk strålning samt strålningens påverkan på levande organismer. Hur olika typer av strålning kan användas i modern teknik, till exempel inom sjukvård och informationsteknik.
+- Partikelmodell för att beskriva och förklara fasers egenskaper och fasövergångar, tryck, volym, densitet och temperatur. Hur partiklarnas rörelser kan förklara materiens spridning i naturen.
+- Aktuella samhällsfrågor som rör fysik.
+
+Fysiken och vardagslivet
+
+- Krafter, rörelser och rörelseförändringar i vardagliga situationer och hur kunskaper om detta kan användas, till exempel i frågor om trafiksäkerhet.
+- Hävarmar och utväxling i verktyg och redskap, till exempel i saxar, spett, block och taljor.
+- Hur ljud uppstår, breder ut sig och kan registreras på olika sätt. Ljudets egenskaper och ljudmiljöns påverkan på hälsan.
+- Ljusets utbredning, reflektion och brytning i vardagliga sammanhang. Förklaringsmodeller för hur ögat uppfattar färg.
+- Sambanden mellan spänning, ström, resistans och effekt i elektriska kretsar och hur de används i vardagliga sammanhang.
+- Sambandet mellan elektricitet och magnetism och hur detta kan utnyttjas i vardaglig elektrisk utrustning.
+
+Fysiken och världsbilden
+
+- Historiska och nutida upptäckter inom fysikområdet och hur de har formats av och format världsbilder. Upptäckternas betydelse för teknik, miljö, samhälle och människors levnadsvillkor.
+- Aktuella forskningsområden inom fysik, till exempel elementarpartikelfysik och nanoteknik.
+- Naturvetenskapliga teorier om universums uppkomst i jämförelse med andra beskrivningar.
+- Universums utveckling och atomslagens uppkomst genom stjärnornas utveckling.
+- Universums uppbyggnad med himlakroppar, solsystem och galaxer samt rörelser hos och avstånd mellan dessa.
+- De fysikaliska modellernas och teoriernas användbarhet, begränsningar, giltighet och föränderlighet.
+
+Fysikens metoder och arbetssätt
+
+- Systematiska undersökningar och hur simuleringar kan användas som stöd vid modellering. Formulering av enkla frågeställningar, planering, utförande och utvärdering.
+- Mätningar och mätinstrument och hur de kan kombineras för att mäta storheter, till exempel fart, tryck och effekt. Elektriska sensorer för mätning och registrering av egenskaper hos omgivningen.
+- Sambandet mellan fysikaliska undersökningar och utvecklingen av begrepp, modeller och teorier.
+- Dokumentation av undersökningar med tabeller, diagram, bilder och skriftliga rapporter, såväl med som utan digitala verktyg.
+- Källkritisk granskning av information och argument som eleven möter i olika källor och samhällsdiskussioner med koppling till fysik, såväl i digitala som i andra medier.
+
